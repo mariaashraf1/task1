@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 
 
-
+//maria ashraf
 void main() => runApp(const MyApp());
 class MyApp extends StatefulWidget {
   const MyApp({Key? key}) : super(key: key);
@@ -39,7 +39,7 @@ class _MyAppState extends State<MyApp> {
                           .all(Radius.circular(70))),
                       hintText: "please enter your name",
                       labelText: "name",
-                      labelStyle: TextStyle(color: Colors.black),
+                      labelStyle: TextStyle(color: Colors.yellow),
                       prefixIcon: Icon(Icons.person),
                       fillColor: Colors.grey,
                       prefixIconColor: Colors.black,
